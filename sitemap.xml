@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fdammeke.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url>
   
   <url>
-    <loc>https://fdammeke.github.io/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
   </url>
   
   <url>
-    <loc>https://fdammeke.github.io/services/first/</loc>
+    <loc>http://localhost:1313/services/first/</loc>
   </url>
   
   <url>
-    <loc>https://fdammeke.github.io/services/second/</loc>
+    <loc>http://localhost:1313/services/second/</loc>
   </url>
   
 </urlset>

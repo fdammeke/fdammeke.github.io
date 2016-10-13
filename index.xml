@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabian Dammekens</title>
-    <link>https://fdammeke.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Fabian Dammekens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://fdammeke.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://fdammeke.github.io/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fdammeke.github.io/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>&lt;p&gt;I am a system engineer with a passion for&lt;/p&gt;
 
 &lt;p&gt;LINUX – CONTINUOUS DELIVERY – DEVOPS&lt;/p&gt;
@@ -22,20 +22,20 @@
     
     <item>
       <title>First</title>
-      <link>https://fdammeke.github.io/services/first/</link>
+      <link>http://localhost:1313/services/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fdammeke.github.io/services/first/</guid>
+      <guid>http://localhost:1313/services/first/</guid>
       <description>&lt;p&gt;First description&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://fdammeke.github.io/services/second/</link>
+      <link>http://localhost:1313/services/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fdammeke.github.io/services/second/</guid>
+      <guid>http://localhost:1313/services/second/</guid>
       <description>&lt;p&gt;Second widget&lt;/p&gt;
 </description>
     </item>
