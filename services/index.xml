@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Fabian Dammekens</title>
-    <link>http://localhost:1313/services/</link>
+    <link>https://fdammeke.github.io/services/</link>
     <description>Recent content in Services on Fabian Dammekens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fdammeke.github.io/services/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First</title>
-      <link>http://localhost:1313/services/first/</link>
+      <link>https://fdammeke.github.io/services/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/services/first/</guid>
+      <guid>https://fdammeke.github.io/services/first/</guid>
       <description>&lt;p&gt;First description&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://localhost:1313/services/second/</link>
+      <link>https://fdammeke.github.io/services/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/services/second/</guid>
+      <guid>https://fdammeke.github.io/services/second/</guid>
       <description>&lt;p&gt;Second widget&lt;/p&gt;
 </description>
     </item>
